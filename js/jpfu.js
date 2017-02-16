@@ -1,4 +1,4 @@
-﻿//jpFILEUPLOAD - By Jay Pedro @ Bit-Wizards 2016 [http://bitwizards.com/]
+﻿//jpFILEUPLOAD - By Jay Pedro
 //----------------[INFO]-----------------------------------
 //  [Dependicies]
 //  1.Bootstrap 3+ [http://getbootstrap.com/getting-started/]
